@@ -1,0 +1,652 @@
+Id,Genre,White,Pale Yellow,Severe Yellow,Brownish,Broken,Unbroken,Cracked,Uncracked
+106202101,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+106202102,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+106202103,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+107202101,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+107202102,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+205202101,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+205202102,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+205202103,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+205202104,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+205202105,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+206202101,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+206202102,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+206202103,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+206202104,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+206202105,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+206202106,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+206202107,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+206202108,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+206202109,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+206202110,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+206202111,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+206202112,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+206202113,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+206202114,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+305202101,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+305202102,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+305202103,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+305202104,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+305202105,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+305202106,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+305202107,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+305202108,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+305202109,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+305202110,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+305202111,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+305202112,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+305202113,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+305202114,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+305202115,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+305202116,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+306202101,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+306202102,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+306202103,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+306202104,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+306202105,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+306202106,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+306202107,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+306202108,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+306202109,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+306202110,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+306202111,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+306202112,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+306202113,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+306202114,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+405202101,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+405202102,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+405202103,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+405202104,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+405202105,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+406202101,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+406202102,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+406202103,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+406202104,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+406202105,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+406202106,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+406202107,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+406202108,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+505202101,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+505202102,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+505202103,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+505202104,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+505202105,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+505202106,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+506202101,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+506202102,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+506202103,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+506202104,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+506202105,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+605202101,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+605202102,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+605202103,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+605202104,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+605202105,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+606202101,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+606202102,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+705202101,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+705202102,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+705202103,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+705202104,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+705202105,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+706202101,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+706202102,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+706202103,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+706202104,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+706202105,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+706202106,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+805202101,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+805202102,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+805202103,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+906202101,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+1005202101,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+1206202101,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+1305202101,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+1405202101,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+1406202101,"['Brownish', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+1605202101,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+1605202102,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+1605202103,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+1806202101,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+1806202102,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+1905202101,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+1905202102,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+2005202101,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+2006202101,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,0,0,1,0,1
+2107202101,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202102,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202103,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202104,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202105,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202106,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202107,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202108,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202109,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202110,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202111,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202112,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202113,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202114,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202115,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202116,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202117,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202118,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202119,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202120,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202121,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202122,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202123,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202124,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202125,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202126,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202127,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202128,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202129,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202130,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202131,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202132,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202133,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202134,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202135,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202136,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202137,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202138,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202139,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202140,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202141,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202142,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202143,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202144,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202145,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202146,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202147,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202148,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202149,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2107202150,"['White', 'Unbroken', 'Uncracked']",1,0,0,0,0,1,0,1
+2705202101,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+2705202102,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+2705202103,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+2805202101,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+2805202102,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+2905202101,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+2905202102,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+2905202103,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+2905202104,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+2905202105,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3004202101,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3005202101,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3005202102,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3005202103,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3005202104,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3005202105,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3005202106,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3005202107,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3005202108,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3005202109,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3005202110,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+3005202111,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+3005202112,"['Brownish', 'Unbroken', 'Uncracked']",0,0,0,1,0,1,0,1
+3105202101,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3105202102,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3105202103,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3105202104,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3105202105,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3105202106,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3105202107,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3105202108,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3105202109,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3105202110,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3105202111,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+3105202112,"['Severe Yellow','Unbroken','Uncracked']",0,0,1,0,0,1,0,1
+  ,"['Pale Yellow', 'Unbroken', 'Uncracked']",0,1,0,0,0,1,0,1
+tt0087921,['Drama'],0,0,0,0,0,0,0,1
+tt0087928,['Comedy'],0,0,0,0,1,0,0,0
+tt0087932,"['Action', 'Comedy', 'Crime']",1,0,0,0,1,1,0,0
+tt0087951,['Comedy'],0,0,0,0,1,0,0,0
+tt0087956,"['Drama', 'War']",0,0,0,0,0,0,0,1
+tt0087957,"['Drama', 'Music', 'Musical']",0,0,0,0,0,0,0,1
+tt0087968,"['Comedy', 'Drama', 'Romance']",0,0,0,0,1,0,0,1
+tt0087980,"['Drama', 'Romance', 'War']",0,0,0,0,0,0,0,1
+tt0087981,"['Horror', 'Thriller']",0,0,0,0,0,0,0,0
+tt0087983,"['Drama', 'Romance', 'Comedy']",0,0,0,0,1,0,0,1
+tt0087995,"['Comedy', 'Crime', 'Sci-Fi']",0,0,0,0,1,1,0,0
+tt0088000,['Comedy'],0,0,0,0,1,0,0,0
+tt0088001,"['Comedy', 'Music']",0,0,0,0,1,0,0,0
+tt0088006,"['Adventure', 'Crime', 'Drama']",0,1,0,0,0,1,0,1
+tt0088007,['Drama'],0,0,0,0,0,0,0,1
+tt0088011,"['Action', 'Adventure', 'Comedy']",1,1,0,0,1,0,0,0
+tt0088024,"['Action', 'Crime', 'Sci-Fi']",1,0,0,0, ,1,0,0
+tt0088046,['Comedy'],0,0,0,0,1,0,0,0
+tt0088103,"['Adventure', 'Fantasy']",0,1,0,0,0,0,0,0
+tt0088117,"['Horror', 'Thriller']",0,0,0,0,0,0,0,0
+tt0088128,"['Comedy', 'Romance']",0,0,0,0,1,0,0,0
+tt0088146,"['Crime', 'Drama', 'Mystery']",0,0,0,0,0,1,0,1
+tt0088153,"['Drama', 'Music']",0,0,0,0,0,0,0,1
+tt0088161,"['Comedy', 'Fantasy', 'Romance']",0,0,0,0,1,0,0,0
+tt0088170,"['Action', 'Adventure', 'Sci-Fi']",1,1,0,0,0,0,0,0
+tt0088172,"['Adventure', 'Drama', 'Romance']",0,1,0,0,0,0,0,1
+tt0088176,['Drama'],0,0,0,0,0,0,0,1
+tt0088178,"['Documentary', 'Music']",0,0,0,0,0,0,1,0
+tt0088184,"['Comedy', 'Drama']",0,0,0,0,1,0,0,1
+tt0088194,"['Action', 'Crime', 'Drama']",1,0,0,0,0,1,0,1
+tt0088206,"['Action', 'Adventure', 'Fantasy']",1,1,0,0,0,0,0,0
+tt0088213,"['Drama', 'Romance', 'War']",0,0,0,0,0,0,0,1
+tt0088224,"['Action', 'Drama', 'Comedy']",1,0,0,0,1,0,0,1
+tt0088242,"['Comedy', 'Drama']",0,0,0,0,1,0,0,1
+tt0088247,"['Action', 'Sci-Fi']",1,0,0,0,0,0,0,0
+tt0088249,"['Horror', 'Documentary', 'Thriller']",0,0,0,0,0,0,1,0
+tt0088256,"['Drama', 'Thriller', 'Crime']",0,0,0,0,0,1,0,1
+tt0088258,"['Comedy', 'Music']",0,0,0,0,1,0,0,0
+tt0088272,"['Mystery', 'Thriller']",0,0,0,0,0,0,0,0
+tt0088286,['Comedy'],0,0,0,0,1,0,0,0
+tt0088318,['Drama'],0,0,0,0,0,0,0,1
+tt0088322,['Drama'],0,0,0,0,0,0,0,1
+tt0088323,"['Adventure', 'Drama', 'Family']",0,1,0,0,0,0,0,1
+tt0088330,"['Drama', 'Romance']",0,0,0,0,0,0,0,1
+tt0088333,['Comedy'],0,0,0,0,1,0,0,0
+tt0088379,"['Adventure', 'Fantasy']",0,1,0,0,0,0,0,0
+tt0088385,['Comedy'],0,0,0,0,1,0,0,0
+tt0088402,"['Comedy', 'Drama']",0,0,0,0,1,0,0,1
+tt0088414,"['Comedy', 'Romance']",0,0,0,0,1,0,0,0
+tt0088680,"['Comedy', 'Crime', 'Drama']",0,0,0,0,1,1,0,1
+tt0088683,"['Drama', 'Mystery']",0,0,0,0,0,0,0,1
+tt0088707,"['Drama', 'Sport']",0,0,0,0,0,0,0,1
+tt0088708,"['Action', 'Adventure', 'Romance']",1,1,0,0,0,0,0,0
+tt0088757,"['Action', 'Crime', 'Thriller']",1,0,0,0,0,1,0,0
+tt0088760,"['Family', 'Adventure', 'Sci-Fi']",0,1,0,0,0,0,0,0
+tt0088763,"['Adventure', 'Comedy', 'Sci-Fi']",0,1,0,0,1,0,0,0
+tt0088765,['Comedy'],0,0,0,0,1,0,0,0
+tt0088794,"['Comedy', 'Romance']",0,0,0,0,1,0,0,0
+tt0088814,"['Animation', 'Adventure', 'Family']",0,1,1,0,0,0,0,0
+tt0088846,"['Drama', 'Sci-Fi']",0,0,0,0,0,0,0,1
+tt0088847,"['Comedy', 'Drama']",0,0,0,0,1,0,0,1
+tt0088850,['Comedy'],0,0,0,0,1,0,0,0
+tt0088851,"['Fantasy', 'Horror', 'Romance']",0,0,0,0,0,0,0,0
+tt0088855,"['Documentary', 'Music']",0,0,0,0,0,0,1,0
+tt0088885,"['Animation', 'Adventure', 'Comedy']",0,1,1,0,1,0,0,0
+tt0088889,"['Comedy', 'Horror', 'Thriller']",0,0,0,0,1,0,0,0
+tt0088895,"['Action', 'Drama']",1,0,0,0,0,0,0,1
+tt0088915,"['Drama', 'Music', 'Musical']",0,0,0,0,0,0,0,1
+tt0088930,"['Comedy', 'Crime', 'Mystery']",0,0,0,0,1,1,0,0
+tt0088933,['Sci-Fi'],0,0,0,0,0,0,0,0
+tt0088936,"['Action', 'Crime', 'Drama']",1,0,0,0,0,1,0,1
+tt0088939,['Drama'],0,0,0,0,0,0,0,1
+tt0088944,"['Action', 'Adventure', 'Thriller']",1,1,0,0,0,0,0,0
+tt0088947,"['Comedy', 'Drama', 'Mystery']",0,0,0,0,1,0,0,1
+tt0088960,"['Comedy', 'Romance', 'Sci-Fi']",0,0,0,0,1,0,0,0
+tt0088979,"['Family', 'Sci-Fi']",0,0,0,0,0,0,0,0
+tt0088987,"['Biography', 'Crime', 'Drama']",0,0,0,1,0,1,0,1
+tt0088993,['Horror'],0,0,0,0,0,0,0,0
+tt0089003,"['Action', 'Crime', 'Drama']",1,0,0,0,0,1,0,1
+tt0089017,"['Comedy', 'Drama']",0,0,0,0,1,0,0,1
+tt0089034,"['Horror', 'Drama']",0,0,0,0,0,0,0,1
+tt0089052,"['Biography', 'Comedy', 'Drama']",0,0,0,1,1,0,0,1
+tt0089079,"['Drama', 'War']",0,0,0,0,0,0,0,1
+tt0089087,"['Action', 'Adventure', 'Drama']",1,1,0,0,0,0,0,1
+tt0089092,"['Action', 'Adventure', 'Drama']",1,1,0,0,0,0,0,1
+tt0089114,"['Adventure', 'Comedy', 'Family']",0,1,0,0,1,0,0,0
+tt0089118,"['Action', 'Thriller']",1,0,0,0,0,0,0,0
+tt0089126,"['Comedy', 'Drama']",0,0,0,0,1,0,0,1
+tt0089129,"['Drama', 'Musical']",0,0,0,0,0,0,0,1
+tt0089155,"['Comedy', 'Crime', 'Mystery']",0,0,0,0,1,1,0,0
+tt0089160,['Drama'],0,0,0,0,0,0,0,1
+tt0089167,['Comedy'],0,0,0,0,1,0,0,0
+tt0089175,"['Fantasy', 'Horror', 'Thriller']",0,0,0,0,0,0,0,0
+tt0089208,"['Comedy', 'Music', 'Romance']",0,0,0,0,1,0,0,0
+tt0089218,"['Adventure', 'Comedy', 'Family']",0,1,0,0,1,0,0,0
+tt0089221,"['Comedy', 'Drama']",0,0,0,0,1,0,0,1
+tt0089222,"['Action', 'Comedy', 'Mystery']",1,0,0,0,1,0,0,0
+tt0089243,"['Action', 'Drama']",1,0,0,0,0,0,0,1
+tt0089264,"['Comedy', 'Drama', 'Romance']",0,0,0,0,1,0,0,1
+tt0089265,"['Comedy', 'Fantasy', 'Romance']",0,0,0,0,1,0,0,0
+tt0089272,"['Animation', 'Adventure', 'Family']",0,1,1,0,0,0,0,0
+tt0089276,"['Drama', 'History', 'War']",0,0,0,0,0,0,0,1
+tt0089283,"['Action', 'Crime', 'Drama']",1,0,0,0,0,1,0,1
+tt0089304,['Comedy'],0,0,0,0,1,0,0,0
+tt0089346,"['Comedy', 'Drama', 'Thriller']",0,0,0,0,1,0,0,1
+tt0089348,"['Action', 'Thriller']",1,0,0,0,0,0,0,0
+tt0089360,"['Crime', 'Thriller', 'Mystery']",0,0,0,0,0,1,0,0
+tt0089370,"['Action', 'Adventure', 'Comedy']",1,1,0,0,1,0,0,0
+tt0089383,"['Comedy', 'Drama']",0,0,0,0,1,0,0,1
+tt0089385,"['Family', 'Adventure']",0,1,0,0,0,0,0,0
+tt0089393,"['Comedy', 'Romance']",0,0,0,0,1,0,0,0
+tt0089420,"['Adventure', 'Biography', 'Drama']",0,1,0,1,0,0,0,1
+tt0089421,"['Action', 'Adventure', 'Comedy']",1,1,0,0,1,0,0,0
+tt0089424,"['Drama', 'Romance']",0,0,0,0,0,0,0,1
+tt0089444,"['Comedy', 'Drama', 'Music']",0,0,0,0,1,0,0,1
+tt0089457,"['Adventure', 'Drama', 'Fantasy']",0,1,0,0,0,0,0,1
+tt0089461,"['Action', 'Comedy', 'Drama']",1,0,0,0,1,0,0,1
+tt0089470,"['Action', 'Drama']",1,0,0,0,0,0,0,1
+tt0089489,"['Action', 'Horror', 'Sci-Fi']",1,0,0,0,0,0,0,0
+tt0089504,['Comedy'],0,0,0,0,1,0,0,0
+tt0089523,"['Comedy', 'Western']",0,0,0,0,1,0,0,0
+tt0089530,"['Action', 'Adventure', 'Sci-Fi']",1,1,0,0,0,0,0,0
+tt0089543,"['Comedy', 'Thriller']",0,0,0,0,1,0,0,0
+tt0089555,['Drama'],0,0,0,0,0,0,0,1
+tt0089560,"['Biography', 'Drama']",0,0,0,1,0,0,0,1
+tt0089569,['Comedy'],0,0,0,0,1,0,0,0
+tt0089572,"['Crime', 'Thriller']",0,0,0,0,0,1,0,0
+tt0089601,"['Comedy', 'Romance']",0,0,0,0,1,0,0,0
+tt0089603,"['Biography', 'Drama']",0,0,0,1,0,0,0,1
+tt0089622,"['Comedy', 'Sci-Fi']",0,0,0,0,1,0,0,0
+tt0089629,['Comedy'],0,0,0,0,1,0,0,0
+tt0089643,"['Comedy', 'Drama', 'Romance']",0,0,0,0,1,0,0,1
+tt0089652,"['Action', 'Adventure', 'Comedy']",1,1,0,0,1,0,0,0
+tt0089670,['Comedy'],0,0,0,0,1,0,0,0
+tt0089679,"['Drama', 'Horror', 'Thriller']",0,0,0,0,0,0,0,1
+tt0089686,"['Fantasy', 'Horror']",0,0,0,0,0,0,0,0
+tt0089695,"['Action', 'Crime', 'Drama']",1,0,0,0,0,1,0,1
+tt0089716,"['Biography', 'Drama', 'History']",0,0,0,1,0,0,0,1
+tt0089730,"['Comedy', 'Horror']",0,0,0,0,1,0,0,0
+tt0089731,"['Family', 'Fantasy']",0,0,0,0,0,0,0,0
+tt0089748,['Drama'],0,0,0,0,0,0,0,1
+tt0089755,"['Biography', 'Drama', 'Romance']",0,0,0,1,0,0,0,1
+tt0089767,['Western'],0,0,0,0,0,0,0,0
+tt0089791,"['Adventure', 'Comedy', 'Family']",0,1,0,0,1,0,0,0
+tt0089798,"['Drama', 'Romance']",0,0,0,0,0,0,0,1
+tt0089822,['Comedy'],0,0,0,0,1,0,0,0
+tt0089839,['Comedy'],0,0,0,0,1,0,0,0
+tt0089841,"['Comedy', 'Crime', 'Drama']",0,0,0,0,1,1,0,1
+tt0089853,"['Comedy', 'Fantasy', 'Romance']",0,0,0,0,1,0,0,0
+tt0089869,"['Drama', 'Mystery', 'Sci-Fi']",0,0,0,0,0,0,0,1
+tt0089877,"['Animation', 'Adventure', 'Family']",0,1,1,0,0,0,0,0
+tt0089880,"['Action', 'Adventure', 'Thriller']",1,1,0,0,0,0,0,0
+tt0089881,"['Action', 'Drama', 'War']",1,0,0,0,0,0,0,1
+tt0089883,"['Drama', 'Music', 'Musical']",0,0,0,0,0,0,0,1
+tt0089885,"['Comedy', 'Horror', 'Sci-Fi']",0,0,0,0,1,0,0,0
+tt0089886,"['Comedy', 'Romance', 'Sci-Fi']",0,0,0,0,1,0,0,0
+tt0089893,"['Action', 'Adventure', 'Fantasy']",1,1,0,0,0,0,0,0
+tt0089901,"['Action', 'Adventure', 'Comedy']",1,1,0,0,1,0,0,0
+tt0089907,"['Comedy', 'Horror', 'Sci-Fi']",0,0,0,0,1,0,0,0
+tt0089913,"['Adventure', 'Drama', 'History']",0,1,0,0,0,0,0,1
+tt0089927,"['Drama', 'Sport']",0,0,0,0,0,0,0,1
+tt0089941,"['Action', 'Adventure', 'Drama']",1,1,0,0,0,0,0,1
+tt0089981,"['Comedy', 'Romance']",0,0,0,0,1,0,0,0
+tt0090021,['Horror'],0,0,0,0,0,0,0,0
+tt0090022,"['Action', 'Crime', 'Drama']",1,0,0,0,0,1,0,1
+tt0090036,"['Comedy', 'Music', 'Romance']",0,0,0,0,1,0,0,0
+tt0090037,"['Drama', 'Romance', 'Thriller']",0,0,0,0,0,0,0,1
+tt0090056,"['Adventure', 'Comedy']",0,1,0,0,1,0,0,0
+tt0090060,"['Drama', 'Romance']",0,0,0,0,0,0,0,1
+tt0090065,"['Adventure', 'Animation', 'Sci-Fi']",0,1,1,0,0,0,0,0
+tt0090073,"['Action', 'Crime', 'Drama']",1,0,0,0,0,1,0,1
+tt0090092,['Documentary'],0,0,0,0,0,0,1,0
+tt0090095,"['Comedy', 'Drama', 'Thriller']",0,0,0,0,1,0,0,1
+tt0090098,"['Comedy', 'Romance']",0,0,0,0,1,0,0,0
+tt0090103,"['Comedy', 'Drama', 'Romance']",0,0,0,0,1,0,0,1
+tt0090110,"['Biography', 'Drama', 'Music']",0,0,0,1,0,0,0,1
+tt0090112,"['Drama', 'Family']",0,0,0,0,0,0,0,1
+tt0090130,"['Action', 'Adventure', 'Crime']",1,1,0,0,0,1,0,0
+tt0090142,"['Comedy', 'Fantasy']",0,0,0,0,1,0,0,0
+tt0090151,"['Crime', 'Drama']",0,0,0,0,0,1,0,1
+tt0090152,"['Documentary', 'Musical']",0,0,0,0,0,0,1,0
+tt0090180,"['Action', 'Crime', 'Drama']",1,0,0,0,0,1,0,1
+tt0090184,['Comedy'],0,0,0,0,1,0,0,0
+tt0090196,"['Comedy', 'Fantasy', 'Horror']",0,0,0,0,1,0,0,0
+tt0090203,['Drama'],0,0,0,0,0,0,0,1
+tt0090209,"['Comedy', 'Crime', 'Drama']",0,0,0,0,1,1,0,1
+tt0090213,"['Action', 'Drama']",1,0,0,0,0,0,0,1
+tt0090217,"['Action', 'Comedy', 'Drama']",1,0,0,0,1,0,0,1
+tt0090223,"['Drama', 'Romance']",0,0,0,0,0,0,0,1
+tt0090264,"['Action', 'Adventure', 'Thriller']",1,1,0,0,0,0,0,0
+tt0090270,"['Drama', 'Romance', 'Sport']",0,0,0,0,0,0,0,1
+tt0090274,['Comedy'],0,0,0,0,1,0,0,0
+tt0090293,"['Drama', 'Sci-Fi', 'Thriller']",0,0,0,0,0,0,0,1
+tt0090305,"['Comedy', 'Romance', 'Sci-Fi']",0,0,0,0,1,0,0,0
+tt0090310,"['Drama', 'Mystery']",0,0,0,0,0,0,0,1
+tt0090319,['Drama'],0,0,0,0,0,0,0,1
+tt0090323,"['Adventure', 'Thriller', 'Action']",1,1,0,0,0,0,0,0
+tt0090327,"['Horror', 'Mystery', 'Thriller']",0,0,0,0,0,0,0,0
+tt0090329,"['Crime', 'Drama', 'Romance']",0,0,0,0,0,1,0,1
+tt0090350,"['Action', 'Crime', 'Drama']",1,0,0,0,0,1,0,1
+tt0090357,"['Adventure', 'Fantasy', 'Mystery']",0,1,0,0,0,0,0,0
+tt0090555,"['Adventure', 'Comedy']",0,1,0,0,1,0,0,0
+tt0090557,"['Drama', 'Music']",0,0,0,0,0,0,0,1
+tt0090559,"['Documentary', 'Sport']",0,0,0,0,0,0,1,0
+tt0090563,"['Drama', 'Romance']",0,0,0,0,0,0,0,1
+tt0090567,"['Crime', 'Thriller']",0,0,0,0,0,1,0,0
+tt0090568,"['Action', 'Adventure', 'Crime']",1,1,0,0,0,1,0,0
+tt0090576,"['Drama', 'History', 'Romance']",0,0,0,0,0,0,0,1
+tt0090583,"['Comedy', 'Drama', 'Romance']",0,0,0,0,1,0,0,1
+tt0090585,"['Drama', 'Fantasy', 'Musical']",0,0,0,0,0,0,0,1
+tt0090605,"['Action', 'Horror', 'Sci-Fi']",1,0,0,0,0,0,0,0
+tt0090631,"['Drama', 'Sport']",0,0,0,0,0,0,0,1
+tt0090633,"['Animation', 'Comedy', 'Drama']",0,0,1,0,1,0,0,1
+tt0090655,"['Horror', 'Mystery']",0,0,0,0,0,0,0,0
+tt0090660,"['Action', 'Comedy', 'Crime']",1,0,0,0,1,1,0,0
+tt0090670,"['Crime', 'Drama']",0,0,0,0,0,1,0,1
+tt0090678,"['Action', 'Drama', 'Thriller']",1,0,0,0,0,0,0,1
+tt0090685,"['Comedy', 'Romance', 'Sport']",0,0,0,0,1,0,0,0
+tt0090693,"['Action', 'Crime', 'Drama']",1,0,0,0,0,1,0,1
+tt0090710,"['Drama', 'History', 'Romance']",0,0,0,0,0,0,0,1
+tt0090713,"['Comedy', 'Drama', 'Sport']",0,0,0,0,1,0,0,1
+tt0090728,"['Action', 'Adventure', 'Comedy']",1,1,0,0,1,0,0,0
+tt0090735,"['Action', 'Sci-Fi', 'Thriller']",1,0,0,0,0,0,0,0
+tt0090738,"['Crime', 'Thriller']",0,0,0,0,0,1,0,0
+tt0090753,"['Action', 'Crime', 'Drama']",1,0,0,0,0,1,0,1
+tt0090756,"['Mystery', 'Thriller']",0,0,0,0,0,0,0,0
+tt0090768,"['Drama', 'Fantasy']",0,0,0,0,0,0,0,1
+tt0090769,"['Biography', 'Drama', 'Sport']",0,0,0,1,0,0,0,1
+tt0090774,['Comedy'],0,0,0,0,1,0,0,0
+tt0090779,"['Action', 'Thriller', 'Drama']",1,0,0,0,0,0,0,1
+tt0090830,"['Drama', 'Romance']",0,0,0,0,0,0,0,1
+tt0090848,"['Adventure', 'Drama', 'Fantasy']",0,1,0,0,0,0,0,1
+tt0090852,['Comedy'],0,0,0,0,1,0,0,0
+tt0090856,['Comedy'],0,0,0,0,1,0,0,0
+tt0090859,"['Action', 'Crime', 'Thriller']",1,0,0,0,0,1,0,0
+tt0090863,"['Drama', 'Sport']",0,0,0,0,0,0,0,1
+tt0090886,"['Comedy', 'Drama']",0,0,0,0,1,0,0,1
+tt0090887,"['Action', 'Comedy', 'Horror']",1,0,0,0,1,0,0,0
+tt0090904,"['Action', 'Crime', 'Thriller']",1,0,0,0,0,1,0,0
+tt0090917,"['Drama', 'Horror', 'Sci-Fi']",0,0,0,0,0,0,0,1
+tt0090927,"['Action', 'Adventure', 'Drama']",1,1,0,0,0,0,0,1
+tt0090934,"['Drama', 'Family', 'Romance']",0,0,0,0,0,0,0,1
+tt0090966,['Comedy'],0,0,0,0,1,0,0,0
+tt0090967,"['Comedy', 'Crime', 'Drama']",0,0,0,0,1,1,0,1
+tt0090970,"['Crime', 'Drama', 'Thriller']",0,0,0,0,0,1,0,1
+tt0090985,"['Comedy', 'Drama']",0,0,0,0,1,0,0,1
+tt0091003,"['Action', 'Adventure', 'Fantasy']",1,1,0,0,0,0,0,0
+tt0091019,"['Drama', 'Romance', 'War']",0,0,0,0,0,0,0,1
+tt0091024,"['Drama', 'Thriller']",0,0,0,0,0,0,0,1
+tt0091042,['Comedy'],0,0,0,0,1,0,0,0
+tt0091051,"['Action', 'Comedy', 'Crime']",1,0,0,0,1,1,0,0
+tt0091053,"['Drama', 'Romance']",0,0,0,0,0,0,0,1
+tt0091055,"['Action', 'Adventure', 'Comedy']",1,1,0,0,1,0,0,0
+tt0091059,"['Adventure', 'Family', 'Sci-Fi']",0,1,0,0,0,0,0,0
+tt0091064,"['Drama', 'Horror', 'Sci-Fi']",0,0,0,0,0,0,0,1
+tt0091080,"['Horror', 'Thriller']",0,0,0,0,0,0,0,0
+tt0091083,"['Horror', 'Sci-Fi']",0,0,0,0,0,0,0,0
+tt0091113,"['Comedy', 'Drama']",0,0,0,0,1,0,0,1
+tt0091123,['Animation'],0,0,1,0,0,0,0,0
+tt0091129,"['Action', 'Adventure', 'Comedy']",1,1,0,0,1,0,0,0
+tt0091149,"['Animation', 'Adventure', 'Family']",0,1,1,0,0,0,0,0
+tt0091159,"['Comedy', 'Drama']",0,0,0,0,1,0,0,1
+tt0091164,"['Thriller', 'Drama']",0,0,0,0,0,0,0,1
+tt0091167,"['Comedy', 'Drama']",0,0,0,0,1,0,0,1
+tt0091173,['Comedy'],0,0,0,0,1,0,0,0
+tt0091178,"['Horror', 'Comedy', 'Musical']",0,0,0,0,1,0,0,0
+tt0091187,"['Action', 'Comedy', 'Drama']",1,0,0,0,1,0,0,1
+tt0091188,"['Comedy', 'Drama']",0,0,0,0,1,0,0,1
+tt0091203,"['Action', 'Adventure', 'Fantasy']",1,1,0,0,0,0,0,0
+tt0091209,['Thriller'],0,0,0,0,0,0,0,0
+tt0091213,"['Action', 'Comedy', 'Crime']",1,0,0,0,1,1,0,0
+tt0091217,"['Drama', 'Sport']",0,0,0,0,0,0,0,1
+tt0091223,"['Comedy', 'Fantasy', 'Horror']",0,0,0,0,1,0,0,0
+tt0091225,"['Action', 'Adventure', 'Comedy']",1,1,0,0,1,0,0,0
+tt0091276,"['Horror', 'Sci-Fi']",0,0,0,0,0,0,0,0
+tt0091278,"['Action', 'Thriller', 'War']",1,0,0,0,0,0,0,0
+tt0091282,"['Adventure', 'Action', 'Comedy']",1,1,0,0,1,0,0,0
+tt0091295,"['Biography', 'Comedy', 'Drama']",0,0,0,1,1,0,0,1
+tt0091306,"['Comedy', 'Romance', 'Thriller']",0,0,0,0,1,0,0,0
+tt0091310,['Drama'],0,0,0,0,0,0,0,1
+tt0091313,"['Action', 'Drama', 'Thriller']",1,0,0,0,0,0,0,1
+tt0091326,"['Action', 'Family', 'Romance']",1,0,0,0,0,0,0,0
+tt0091344,"['Action', 'Adventure', 'Horror']",1,1,0,0,0,0,0,0
+tt0091369,"['Adventure', 'Family', 'Fantasy']",0,1,0,0,0,0,0,0
+tt0091374,"['Biography', 'Drama', 'History']",0,0,0,1,0,0,0,1
+tt0091396,"['Comedy', 'Crime', 'Romance']",0,0,0,0,1,1,0,0
+tt0091400,"['Action', 'Adventure']",1,1,0,0,0,0,0,0
+tt0091415,['Horror'],0,0,0,0,0,0,0,0
+tt0091419,"['Comedy', 'Musical', 'Sci-Fi']",0,0,0,0,1,0,0,0
+tt0091445,"['Comedy', 'Drama', 'Romance']",0,0,0,0,1,0,0,1
+tt0091472,"['Sci-Fi', 'Thriller']",0,0,0,0,0,0,0,0
+tt0091474,"['Crime', 'Mystery', 'Thriller']",0,0,0,0,0,1,0,0
+tt0091499,"['Action', 'Comedy', 'Horror']",1,0,0,0,1,0,0,0
+tt0091508,['Drama'],0,0,0,0,0,0,0,1
+tt0091530,"['Adventure', 'Drama', 'History']",0,1,0,0,0,0,0,1
+tt0091534,['Comedy'],0,0,0,0,1,0,0,0
+tt0091538,"['Crime', 'Drama', 'Romance']",0,0,0,0,0,1,0,1
+tt0091541,['Comedy'],0,0,0,0,1,0,0,0
+tt0091554,"['Crime', 'Mystery', 'Romance']",0,0,0,0,0,1,0,0
+tt0091557,"['Adventure', 'Drama', 'Thriller']",0,1,0,0,0,0,0,1
+tt0091575,"['Action', 'Crime', 'Drama']",1,0,0,0,0,1,0,1
+tt0091579,['Comedy'],0,0,0,0,1,0,0,0
+tt0091584,"['Animation', 'Family', 'Fantasy']",0,0,1,0,0,0,0,0
+tt0091603,"['Drama', 'Action']",1,0,0,0,0,0,0,1
+tt0091605,"['Crime', 'Mystery', 'Thriller']",0,0,0,0,0,1,0,0
+tt0091613,['Drama'],0,0,0,0,0,0,0,1
+tt0091630,"['Comedy', 'Horror', 'Sci-Fi']",0,0,0,0,1,0,0,0
+tt0091637,"['Crime', 'Drama']",0,0,0,0,0,1,0,1
+tt0091647,"['Horror', 'Mystery', 'Thriller']",0,0,0,0,0,0,0,0
+tt0091653,"['Comedy', 'Drama', 'Romance']",0,0,0,0,1,0,0,1
+tt0091668,"['Comedy', 'Crime', 'Romance']",0,0,0,0,1,1,0,0
+tt0091680,"['Comedy', 'Romance']",0,0,0,0,1,0,0,0
+tt0091706,"['Action', 'Crime', 'Thriller']",1,0,0,0,0,1,0,0
+tt0091738,"['Comedy', 'Drama', 'Fantasy']",0,0,0,0,1,0,0,1
+tt0091763,"['Drama', 'War']",0,0,0,0,0,0,0,1
+tt0091777,['Comedy'],0,0,0,0,1,0,0,0
+tt0091778,['Horror'],0,0,0,0,0,0,0,0
+tt0091786,['Drama'],0,0,0,0,0,0,0,1
+tt0091790,"['Comedy', 'Drama', 'Romance']",0,0,0,0,1,0,0,1
+tt0091814,"['Crime', 'Drama', 'Thriller']",0,0,0,0,0,1,0,1
+tt0091815,['Action'],1,0,0,0,0,0,0,0
+tt0091817,"['Drama', 'Sport']",0,0,0,0,0,0,0,1
+tt0091828,"['Action', 'Crime', 'Thriller']",1,0,0,0,0,1,0,0
+tt0091836,"['Drama', 'Thriller', 'Crime']",0,0,0,0,0,1,0,1
+tt0091875,"['Action', 'Comedy', 'Crime']",1,0,0,0,1,1,0,0
+tt0091877,"['Comedy', 'Crime']",0,0,0,0,1,1,0,0
+tt0091886,"['Drama', 'History', 'Thriller']",0,0,0,0,0,0,0,1
+tt0091934,"['Adventure', 'Crime', 'Drama']",0,1,0,0,0,1,0,1
+tt0091939,"['Comedy', 'Romance']",0,0,0,0,1,0,0,0
+tt0091949,"['Comedy', 'Family', 'Sci-Fi']",0,0,0,0,1,0,0,0
+tt0091954,"['Biography', 'Drama', 'Music']",0,0,0,1,0,0,0,1
+tt0091963,"['Action', 'Adventure', 'War']",1,1,0,0,0,0,0,0
+tt0091981,"['Action', 'Drama', 'Sci-Fi']",1,0,0,0,0,0,0,1
+tt0091983,"['Comedy', 'Crime', 'Romance']",0,0,0,0,1,1,0,0
+tt0091991,"['Comedy', 'Romance']",0,0,0,0,1,0,0,0
+tt0092005,"['Adventure', 'Drama']",0,1,0,0,0,0,0,1
+tt0092007,"['Adventure', 'Comedy', 'Sci-Fi']",0,1,0,0,1,0,0,0
+tt0092022,"['Drama', 'Sport']",0,0,0,0,0,0,0,1
+tt0092035,['Comedy'],0,0,0,0,1,0,0,0
+tt0092042,['Adventure'],0,1,0,0,0,0,0,0
+tt0092068,"['Comedy', 'Crime', 'Drama']",0,0,0,0,1,1,0,1
+tt0092074,"['Comedy', 'Horror', 'Sci-Fi']",0,0,0,0,1,0,0,0
+tt0092076,"['Comedy', 'Horror']",0,0,0,0,1,0,0,0
+tt0092079,"['Comedy', 'Drama']",0,0,0,0,1,0,0,1
+tt0092086,"['Comedy', 'Western']",0,0,0,0,1,0,0,0
+tt0092099,"['Action', 'Drama', 'Romance']",1,0,0,0,0,0,0,1
+tt0092104,"['Comedy', 'Drama', 'Romance']",0,0,0,0,1,0,0,1
+tt0092105,['Comedy'],0,0,0,0,1,0,0,0
+tt0092106,"['Animation', 'Action', 'Adventure']",1,1,1,0,0,0,0,0
+tt0092112,"['Comedy', 'Horror', 'Music']",0,0,0,0,1,0,0,0
+tt0092115,"['Fantasy', 'Horror']",0,0,0,0,0,0,0,0
+tt0092117,"['Musical', 'Comedy']",0,0,0,0,1,0,0,0
+tt0092133,"['Comedy', 'Drama', 'Music']",0,0,0,0,1,0,0,1
+tt0092147,"['Comedy', 'Horror']",0,0,0,0,1,0,0,0
+tt0092172,"['Action', 'Horror', 'Sci-Fi']",1,0,0,0,0,0,0,0
+tt0092173,"['Drama', 'Romance']",0,0,0,0,0,0,0,1
+tt0092195,"['Action', 'Comedy', 'Music']",1,0,0,0,1,0,0,0
+tt0092205,['Adventure'],0,1,0,0,0,0,0,0
+tt0092214,"['Comedy', 'Sport']",0,0,0,0,1,0,0,0
+tt0092226,"['Comedy', 'Crime']",0,0,0,0,1,1,0,0
+tt0092240,"['Action', 'Horror', 'Romance']",1,0,0,0,0,0,0,0
+tt0092272,"['Drama', 'Romance', 'Sport']",0,0,0,0,0,0,0,1
+tt0092494,"['Comedy', 'Family', 'Fantasy']",0,0,0,0,1,0,0,0
+tt0092513,"['Action', 'Adventure', 'Comedy']",1,1,0,0,1,0,0,0
+tt0092563,"['Horror', 'Mystery', 'Thriller']",0,0,0,0,0,0,0,0
+tt0092605,"['Comedy', 'Drama', 'Romance']",0,0,0,0,1,0,0,1
+tt0092608,"['Comedy', 'Musical']",0,0,0,0,1,0,0,0
+tt0092627,"['Crime', 'Mystery', 'Thriller']",0,0,0,0,0,1,0,0
+tt0092632,"['Crime', 'Drama', 'Horror']",0,0,0,0,0,1,0,1
+tt0092638,"['Adventure', 'Family']",0,1,0,0,0,0,0,0
+tt0092644,"['Action', 'Comedy', 'Crime']",1,0,0,0,1,1,0,0
+tt0092644,"['Action', 'Comedy', 'Crime']",1,0,0,0,1,1,0,0
+tt0092666,"['Comedy', 'Romance']",0,0,0,0,1,0,0,0
+tt0092690,['Comedy'],0,0,0,0,1,0,0,0
+tt0092699,"['Comedy', 'Drama', 'Romance']",0,0,0,0,1,0,0,1
+tt0092710,"['Comedy', 'Crime']",0,0,0,0,1,1,0,0
+tt0092718,"['Comedy', 'Drama', 'Romance']",0,0,0,0,1,0,0,1
+tt0092796,"['Comedy', 'Fantasy', 'Horror']",0,0,0,0,1,0,0,0
+tt0092798,['Comedy'],0,0,0,0,1,0,0,0
+tt0092850,"['Comedy', 'Horror']",0,0,0,0,1,0,0,0
+tt0092890,"['Drama', 'Music', 'Romance']",0,0,0,0,0,0,0,1
+tt0092897,['Comedy'],0,0,0,0,1,0,0,0
+tt0092925,"['Comedy', 'Crime']",0,0,0,0,1,1,0,0
+tt0092934,['Drama'],0,0,0,0,0,0,0,1
+tt0092948,"['Documentary', 'Comedy']",0,0,0,0,1,0,1,0
+tt0092965,"['Drama', 'History', 'War']",0,0,0,0,0,0,0,1
+tt0092974,"['Family', 'Comedy']",0,0,0,0,1,0,0,0
+tt0092997,"['Action', 'Crime', 'Drama']",1,0,0,0,0,1,0,1
+tt0093010,"['Drama', 'Thriller']",0,0,0,0,0,0,0,1
+tt0093011,"['Action', 'Comedy', 'Crime']",1,0,0,0,1,1,0,0
+tt0093036,"['Drama', 'Mystery', 'Thriller']",0,0,0,0,0,0,0,1
+tt0093044,['Thriller'],0,0,0,0,0,0,0,0
+tt0093051,"['Comedy', 'Drama']",0,0,0,0,1,0,0,1
+tt0093058,"['Drama', 'War']",0,0,0,0,0,0,0,1
+tt0093075,"['Fantasy', 'Horror']",0,0,0,0,0,0,0,0
+tt0093105,"['Biography', 'Comedy', 'Drama']",0,0,0,1,1,0,0,1
+tt0093137,"['Drama', 'War', 'Action']",1,0,0,0,0,0,0,1
+tt0093148,"['Comedy', 'Family', 'Fantasy']",0,0,0,0,1,0,0,0
+tt0093175,"['Comedy', 'Drama', 'Fantasy']",0,0,0,0,1,0,0,1
+tt0093177,"['Fantasy', 'Horror']",0,0,0,0,0,0,0,0
+tt0093185,"['Action', 'Crime', 'Horror']",1,0,0,0,0,1,0,0
+tt0093209,"['Comedy', 'Drama', 'Romance']",0,0,0,0,1,0,0,1
+tt0093220,"['Comedy', 'Fantasy', 'Horror']",0,0,0,0,1,0,0,0
+tt0093260,"['Action', 'Adventure', 'Comedy']",1,1,0,0,1,0,0,0
+tt0093278,"['Action', 'Adventure', 'Comedy']",1,1,0,0,1,0,0,0
+tt0093315,"['Comedy', 'Sport']",0,0,0,0,1,0,0,0
+tt0093378,"['Biography', 'Drama', 'Music']",0,0,0,1,0,0,0,1
+tt0093389,"['Biography', 'Drama', 'History']",0,0,0,1,0,0,0,1
+tt0093407,"['Crime', 'Drama']",0,0,0,0,0,1,0,1
+tt0093409,"['Action', 'Crime', 'Thriller']",1,0,0,0,0,1,0,0
+tt0093415,"['Drama', 'Music']",0,0,0,0,0,0,0,1
+tt0093418,"['Comedy', 'Fantasy']",0,0,0,0,1,0,0,0
+tt0093428,"['Action', 'Adventure', 'Thriller']",1,1,0,0,0,0,0,0
+tt0093437,"['Comedy', 'Fantasy', 'Horror']",0,0,0,0,1,0,0,0
+tt0093476,"['Fantasy', 'Comedy']",0,0,0,0,1,0,0,0
+tt0093493,"['Comedy', 'Fantasy', 'Romance']",0,0,0,0,1,0,0,0
+tt0093507,"['Action', 'Adventure', 'Fantasy']",1,1,0,0,0,0,0,0
+tt0093565,"['Comedy', 'Drama', 'Romance']",0,0,0,0,1,0,0,1
+tt0093629,"['Fantasy', 'Horror', 'Thriller']",0,0,0,0,0,0,0,0
+tt0093640,"['Action', 'Crime', 'Drama']",1,0,0,0,0,1,0,1
+tt0093660,"['Drama', 'Thriller']",0,0,0,0,0,0,0,1
+tt0093690,['Comedy'],0,0,0,0,1,0,0,0
+tt0093692,"['Action', 'Drama', 'Sport']",1,0,0,0,0,0,0,1
+tt0093693,"['Comedy', 'Romance']",0,0,0,0,1,0,0,0
+tt0093737,"['Comedy', 'Crime', 'Drama']",0,0,0,0,1,1,0,1
+tt0093756,"['Comedy', 'Crime']",0,0,0,0,1,1,0,0
+tt0093773,"['Action', 'Horror', 'Sci-Fi']",1,0,0,0,0,0,0,0
+tt0093777,['Horror'],0,0,0,0,0,0,0,0
+tt0093779,"['Adventure', 'Comedy', 'Family']",0,1,0,0,1,0,0,0
+tt0093780,"['Action', 'Crime', 'Drama']",1,0,0,0,0,1,0,1
+tt0093818,['Comedy'],0,0,0,0,1,0,0,0
+tt0093822,"['Comedy', 'Crime', 'Drama']",0,0,0,0,1,1,0,1
+tt0093857,['Comedy'],0,0,0,0,1,0,0,0
+tt0093870,"['Action', 'Crime', 'Sci-Fi']",1,0,0,0,0,1,0,0
+tt0093886,"['Comedy', 'Romance']",0,0,0,0,1,0,0,0
+tt0093894,"['Action', 'Crime', 'Sci-Fi']",1,0,0,0,0,1,0,0
+tt0094006,"['Drama', 'Romance']",0,0,0,0,0,0,0,1
+tt0094008,"['Crime', 'Drama', 'Romance']",0,0,0,0,0,1,0,1
+tt0094012,"['Adventure', 'Comedy', 'Sci-Fi']",0,1,0,0,1,0,0,0
+tt0094025,"['Comedy', 'Thriller']",0,0,0,0,1,0,0,0
+tt0094037,"['Action', 'Comedy']",1,0,0,0,1,0,0,0
+tt0094072,"['Comedy', 'Romance']",0,0,0,0,1,0,0,0
+tt0094074,"['Action', 'Adventure', 'Family']",1,1,0,0,0,0,0,0
+tt0094082,"['Crime', 'Drama', 'Thriller']",0,0,0,0,0,1,0,1
+tt0094118,"['Comedy', 'Fantasy']",0,0,0,0,1,0,0,0
+tt0094142,"['Comedy', 'Crime', 'Thriller']",0,0,0,0,1,1,0,0
+tt0094155,"['Comedy', 'Drama']",0,0,0,0,1,0,0,1
+tt0094226,"['Crime', 'Drama', 'Thriller']",0,0,0,0,0,1,0,1
+tt0094291,"['Crime', 'Drama']",0,0,0,0,0,1,0,1
+tt0094332,"['Comedy', 'Fantasy', 'Horror']",0,0,0,0,1,0,0,0
+tt0159539,"['Comedy', 'Romance']",0,0,0,0,1,0,0,0
